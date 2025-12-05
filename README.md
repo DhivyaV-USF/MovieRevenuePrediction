@@ -98,18 +98,6 @@ pip install -r requirements.txt
 jupyter notebook "ML_FinalProject_Team SZA.ipynb"
 ```
 
----
-
-## 📌 Notes
-If the dataset file (`enhanced_box_office_data(2000-2024)u.csv`) is too large for GitHub upload, you can upload it to:
-- Kaggle
-- Google Drive
-- Google Cloud Storage
-
-And link it in this README.
-
----
-
 ## 🤝 Team
 **Team SZA** — MS AIBA  
 University of South Florida
